@@ -1,0 +1,136 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body{
+  background-color: #F5F4F0;
+  width: 1280px;
+  height: 3279px;
+  margin: 0 auto;
+}
+
+main{  
+  margin: 0 auto;
+  width: 1120px;
+  height: 3054px;
+  margin: 80px 88px;
+}
+
+ .foto-primaria{
+  width: 1120px;
+  height: 660px;
+  border-radius: 28px;
+}
+.primeiro-container{
+  margin-top: 40px;
+}
+
+section img{
+width:1120px ;
+height: 350px ;
+border-radius: 28px;
+}
+
+.primeira-parte-section{
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+
+.primeira-parte-section div{
+  margin-bottom: 8px;
+}
+.color-orange{
+  color: #E1624F;
+}
+
+.blue-color{
+  color: #0C51A7;
+}
+
+h1{
+  font-size: 36x;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 28px;
+  font-weight: bold;
+}
+span{
+  font-weight: bold;
+}
+
+p{
+  font-size: 16px;
+  font-weight: normal;
+  }
+
+  .paragrafosub{
+    font-size: 16px;
+    font-style: italic;
+    width: auto;
+    height: 37px;    
+    text-align: center;
+    
+  }
+.container{
+  margin-top: 48px;
+}
+.container div{
+  height: 152px;
+}
+.container h3{
+  margin-left: 34px;
+}
+.container p{
+  margin-bottom: 20px;
+}
+.container ul{
+  margin-left: 30px;
+}
+.container span{
+  margin-left: 5px;
+}
+
+.paragrafosub-final{
+  font-size: 16px;
+    font-style: italic;
+    width: auto;
+    height: 37px;    
+    text-align: center;
+    margin-top: 100px;
+}
+
+footer{
+  margin-top: -150px;
+  text-align: center;
+}
+
+footer p{
+  font-size: 20px;
+}
+
+.foto-icon{
+  width: 20px;
+}
+
+.purple{
+  color: #591B98;
+  font-weight: bold;
+}
+.pink{
+  color: #E5245E;
+  font-weight: bold;
+}
+.orange{
+  color: #E95E10;
+  font-weight: bold;
+}
