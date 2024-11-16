@@ -1,0 +1,24 @@
+🌟 Bem-vindo ao meu GitHub!
+![htmlcssjs](https://github.com/user-attachments/assets/d802bad2-0b32-4c07-beb2-dc2dc6cf13df)
+
+
+👋 Sobre mim
+Sou um desenvolvedor Full Stack em formação, em transição de carreira após mais de 10 anos como consultor de vendas. Apaixonado por tecnologia, me formei em Análise de Sistemas para dar o primeiro passo rumo ao desenvolvimento de software.
+
+🎯 Atualmente, estou focado no aprendizado de:
+
+HTML
+CSS
+JavaScript
+Estou entusiasmado para criar projetos que aliam design funcional e código bem estruturado.
+
+🚀 Habilidades e Objetivos
+🌱 Estudando: Desenvolvimento Web Full Stack.
+💼 Experiência anterior: Mais de 10 anos em vendas, com habilidades em comunicação e resolução de problemas.
+🌟 Objetivo: Contribuir para projetos inovadores, aprender com equipes incríveis e crescer na área de desenvolvimento de software.
+
+📫 Vamos nos conectar?
+💼 LinkedIn: https://www.linkedin.com/in/alexandre-santos-10368a10b/
+📧 Email: xndrdev40@gmail.com
+💡 “O aprendizado é contínuo, e cada linha de código é um passo para o futuro.”
+
